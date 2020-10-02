@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/enable73/enable73.github.io/static/css/main.379d31af.chunk.css",
+    "main.js": "/enable73/enable73.github.io/static/js/main.044b0fa9.chunk.js",
+    "main.js.map": "/enable73/enable73.github.io/static/js/main.044b0fa9.chunk.js.map",
+    "runtime-main.js": "/enable73/enable73.github.io/static/js/runtime-main.9f13b7e7.js",
+    "runtime-main.js.map": "/enable73/enable73.github.io/static/js/runtime-main.9f13b7e7.js.map",
+    "static/js/2.d3c59976.chunk.js": "/enable73/enable73.github.io/static/js/2.d3c59976.chunk.js",
+    "static/js/2.d3c59976.chunk.js.map": "/enable73/enable73.github.io/static/js/2.d3c59976.chunk.js.map",
+    "index.html": "/enable73/enable73.github.io/index.html",
+    "precache-manifest.2114cedc58b2d752103b7d4402a282c8.js": "/enable73/enable73.github.io/precache-manifest.2114cedc58b2d752103b7d4402a282c8.js",
+    "service-worker.js": "/enable73/enable73.github.io/service-worker.js",
+    "static/css/main.379d31af.chunk.css.map": "/enable73/enable73.github.io/static/css/main.379d31af.chunk.css.map",
+    "static/js/2.d3c59976.chunk.js.LICENSE.txt": "/enable73/enable73.github.io/static/js/2.d3c59976.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f13b7e7.js",
+    "static/js/2.d3c59976.chunk.js",
+    "static/css/main.379d31af.chunk.css",
+    "static/js/main.044b0fa9.chunk.js"
+  ]
+}
